@@ -24,7 +24,8 @@
 ---
 
 ## 📫 Bana Ulaşın!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/KULLANICI_ADIN](https://www.linkedin.com/in/yasemin-yaseminnursahan/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasemin-yaseminnursahan/)
+ 
 <!---
 yasemin-ny/yasemin-ny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
